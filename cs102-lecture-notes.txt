@@ -10,3 +10,5 @@
                     ssh-keygen -t RSA
 4. Cloning your GitHub repository
                         git clone git@github.com:<your GitHub username>/cs102-git-essentials.git
+these are some commands of git.
+
